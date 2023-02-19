@@ -8,3 +8,16 @@ You can add Employee
 
 or update or delete Employee
 ![image](https://user-images.githubusercontent.com/36113402/219905382-16d62365-d87f-4bb1-bf08-d1f5d203cb66.png)
+
+
+# ⚙ Technologies used
+* Maven
+* Spring Boot
+* Rest Api
+* Hibernate
+* Validation
+* Logback
+* Lombok
+* Angular
+* Node JS
+* MySQL
